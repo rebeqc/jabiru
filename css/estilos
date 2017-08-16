@@ -1,6 +1,6 @@
 p {
-    color:00ffff;
-    font-size:200%;
+    color:00ffff;background-color:yellow;font-family:'Arial',
+    font-size:350%;
 }
 
 h1 {
